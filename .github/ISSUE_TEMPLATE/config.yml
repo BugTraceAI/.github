@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Questions and installation help
+    url: https://github.com/BugTraceAI/BugTraceAI/discussions
+    about: Ask about setup, configuration and product workflows.
+  - name: Suite documentation
+    url: https://github.com/BugTraceAI/BugTraceAI#documentation
+    about: Find component guides and installation instructions.
+  - name: Private security reports
+    url: https://github.com/BugTraceAI/.github/blob/main/SECURITY.md
+    about: Report vulnerabilities in BugTraceAI through the maintainers' private contact channel.

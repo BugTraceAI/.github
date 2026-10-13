@@ -1,0 +1,61 @@
+name: Bug report
+description: Report a reproducible problem in a BugTraceAI component.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Include enough detail to reproduce the problem with a practice target. Redact credentials and private target evidence.
+        For vulnerabilities in BugTraceAI itself, follow the repository's security policy.
+  - type: dropdown
+    id: component
+    attributes:
+      label: Affected component
+      options:
+        - CLI web-scanning engine
+        - WEB workspace
+        - API-target engine
+        - Launcher
+        - BugStore
+        - ReconFTW MCP
+        - Suite documentation
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit
+      placeholder: "e.g. the version shown by the affected component"
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment and setup
+      description: Include the operating system, local or Docker setup, and relevant browser or runtime versions.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Use a practice target or a sanitized example.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Observed behavior
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Sanitized logs or screenshots
+      description: Remove API keys, cookies, tokens, credentials and private target data.
