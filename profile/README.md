@@ -15,7 +15,7 @@ BugTraceAI connects autonomous scanning engines, an analyst workspace, published
   <a href="https://bugtraceai.com"><img src="https://img.shields.io/badge/Website-bugtraceai.com-blue?logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="https://www.youtube.com/watch?v=FCoQNgO8hmM"><img src="https://img.shields.io/badge/Watch_the_demo-YouTube-FF0000?logo=youtube&logoColor=white" alt="Watch the demo"/></a>
   <a href="https://demo.bugtraceai.com/bugtraceai"><img src="https://img.shields.io/badge/Live_Demo-Try_It-2EAD33?logo=google-chrome&logoColor=white" alt="Live demo"/></a>
-  <a href="https://discord.gg/5HjujkScC"><img src="https://img.shields.io/badge/Join_the_Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the community on Discord"/></a>
+  <a href="https://discord.gg/g48NcdGme"><img src="https://img.shields.io/badge/Join_the_Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join the community on Discord"/></a>
   <a href="https://github.com/BugTraceAI/BugStore"><img src="https://img.shields.io/badge/Practice_on-BugStore-FF7F50?logo=fastapi&logoColor=white" alt="BugStore practice target"/></a>
 </p>
 
@@ -72,7 +72,7 @@ BugTraceAI publishes security-focused checkpoints in the **CORE-Fast**, **CORE-P
 3. [Choose your modules with the Launcher](https://github.com/BugTraceAI/BugTraceAI-Launcher) or run a component independently.
 4. [Read the documentation](https://github.com/BugTraceAI/BugTraceAI#documentation) for installation and component guidance.
 5. [Ask questions in GitHub Discussions](https://github.com/BugTraceAI/BugTraceAI/discussions) or [report a problem in the affected repository](https://github.com/BugTraceAI/.github/blob/main/SUPPORT.md).
-6. [Join the Discord community](https://discord.gg/5HjujkScC) for demos, feedback, and project discussion.
+6. [Join the Discord community](https://discord.gg/g48NcdGme) for demos, feedback, and project discussion.
 
 ---
 

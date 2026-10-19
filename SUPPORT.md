@@ -16,7 +16,7 @@ Ask installation, configuration and workflow questions in [GitHub Discussions](h
 
 For a reproducible defect, open an issue in the affected repository. Include concise reproduction steps and sanitized logs. Features and integration proposals can also be discussed there.
 
-The [Discord community](https://discord.gg/5HjujkScC) is another place for product discussion and feedback.
+The [Discord community](https://discord.gg/g48NcdGme) is another place for product discussion and feedback.
 
 ## Sensitive reports
 
